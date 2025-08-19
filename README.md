@@ -29,28 +29,12 @@ Goal-Setter/
 
 ---
 
-## 📡 How It Works
-
-1. **Create a goal:**  
-   Add details, categories, deadlines, and milestones.
-
-2. **Track progress:**  
-   Update milestones, mark goals complete, and view analytics.
-
-3. **Get reminders:**  
-   Receive notifications for upcoming deadlines.
-
-4. **Collaborate:**  
-   Share goals or work together with teammates.
-
----
-
 ## 🧑‍💻 Getting Started
 
 ### Prerequisites
 
-- Node.js and npm/yarn
-- [Optional] Database (e.g., MongoDB, Firebase) for persistent storage
+- ExpoGo
+- Android Studio/ Visual Studio Code
 
 ### Quick Start
 
@@ -78,23 +62,6 @@ Goal-Setter/
 
 ---
 
-## 📁 Documentation
-
-Find detailed guides, API references, and design documents in the `docs/` folder.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Suggestions, bug reports, and pull requests are welcome! See `docs/CONTRIBUTING.md` for more info.
-
----
 
 ## 👤 Author
 
